@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Furious\\source\\repos\\DevOpsSample\\DevOpsSample.csproj",
+      "projectUniqueName": "E:\\Sample\\DevOpsSample\\DevOpsSample.csproj",
       "projectName": "DevOpsSample",
-      "projectPath": "C:\\Users\\Furious\\source\\repos\\DevOpsSample\\DevOpsSample.csproj",
+      "projectPath": "E:\\Sample\\DevOpsSample\\DevOpsSample.csproj",
       "packagesPath": "C:\\Users\\Furious\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Furious\\source\\repos\\DevOpsSample\\obj\\",
+      "outputPath": "E:\\Sample\\DevOpsSample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Furious\\AppData\\Roaming\\NuGet\\NuGet.Config",

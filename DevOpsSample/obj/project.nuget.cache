@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k9R3yZEkys8XVlbsvHjIVH6xY/wp74kJrJGXlxgFMYiZWNCr52SunRkWEsedozaujI4W4HRfRlpAKlWM2OgLmw==",
+  "dgSpecHash": "SrQxniX6Ec3UeHBGDI4nMmHQctvLPW1DxZ2MhCjXZDS/IcUPQX4cQEemBG0veg5/tp0HQSD9OLO3R3kY2F35CQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Furious\\source\\repos\\DevOpsSample\\DevOpsSample.csproj",
+  "projectFilePath": "E:\\Sample\\DevOpsSample\\DevOpsSample.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
